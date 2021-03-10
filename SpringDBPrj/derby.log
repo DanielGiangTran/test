@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 11 10:25:41 NZDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0178-1e07-f2d2-000001c99090 
+on database directory memory:/Users/giangtran/Downloads/SpringDBPrj/2c010148-c4bd-49cd-a37c-27c4434c9097 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/Users/giangtran/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=14.0.2+12
+user.dir=/Users/giangtran/Downloads/SpringDBPrj
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
